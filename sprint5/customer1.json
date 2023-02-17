@@ -1,0 +1,56 @@
+{
+  "customer": [
+    {
+      "custID": "2",
+      "name": "Manju Sharma",
+      "pass": "1234",
+      "confirm_pass": "1234",
+      "email": "sharma.manju09@gmail.com",
+      "contact": "+919654509854",
+      "address": "B  75 Lajpat Nagar 2\nNEW DELHI 110024",
+      "id": 1
+    },
+    {
+      "custID": "1",
+      "name": "Ms Kriti Sharma",
+      "pass": "123",
+      "confirm_pass": "123",
+      "email": "kritisharma9846@gmail.com",
+      "contact": "+919999749846",
+      "address": "B  75 Lajpat Nagar 2\nNEW DELHI 110024",
+      "id": 2
+    },
+    {
+      "custID": "3",
+      "name": "abc",
+      "pass": "12345",
+      "confirm_pass": "12345",
+      "email": "abc@gmail.com",
+      "contact": "98765432544",
+      "address": "B-75 LAJPAT NAGAR 2 NEW DELHI 110024",
+      "id": 3
+    },
+    {
+      "custID": "4",
+      "name": "rohit",
+      "pass": "1234",
+      "confirm_pass": "1234",
+      "email": "rohit@gmail.com",
+      "contact": "9876543654",
+      "salary": "40000",
+      "address": "B-75 LAJPAT NAGAR 2 NEW DELHI 110024",
+      "id": 4
+    },
+    {
+      "custID": "5",
+      "name": "soniya",
+      "pass": "123456",
+      "confirm_pass": "123456",
+      "email": "abc@gmail.com",
+      "contact": "9878765433",
+      "salary": "60000",
+      "address": "qwerfgthyjukilo",
+      "id": 5
+    }
+  ]
+}
