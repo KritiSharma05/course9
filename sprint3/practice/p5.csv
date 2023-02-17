@@ -1,0 +1,37 @@
+URL,http://localhost:3000/movie
+METHOD,POST,
+,,,,,,
+HTTP Response,SUCCESS,
+Status Code,200 OK,
+status message success
+body, 
+        {
+    "id": 514,
+    "movieTitle": "Father of the Bride",
+    "yearOfRelease": 2021,
+    "director": "Gary Alazraki",
+    "cast": [
+        {
+            "actorName": "Andy Garcia",
+            "onScreenName": "Billy Herrera"
+        },
+        {
+            "actorName": "Gloria Estefan",
+            "onScreenName": "Ingrid Herrera"
+        },
+        {
+            "actorName": "Adria Arjona",
+            "onScreenName": "Sofia Herrera"
+        }
+    ],
+    "rating": 5.9,
+    "genre": "Adventure",
+    "isOnOTT": false
+}
+
+URL,http://localhost:3000/movie
+METHOD,POST,
+,,,,,,
+HTTP Response,SUCCESS,
+Status Code,500 internal server error,
+status message Insert failed, duplicate id,
